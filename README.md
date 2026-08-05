@@ -21,21 +21,14 @@
 
 ---
 
-### Overview
-
-Focusing on open-source, local-first developer infrastructure designed to eliminate unnecessary SaaS dependencies.
+focusing on open-source, local-first developer infrastructure designed to eliminate unnecessary SaaS dependencies.
 
 ```python
 # OpenHarness: Zero-cost, local-first evaluation for AI Agents
 pip install openharness
 ```
-
-### Key Projects
-
+### check out
 - **[OpenHarness](https://github.com/soppressata/OpenHarness)**: Open-source, zero-cost evaluation harness for AI Agents and LLM workflows. Native support for local LLMs (Ollama, vLLM, llama.cpp), trajectory tracing, determinism sweeps, and embedded analytics.
 
 ---
 
-<div align="center">
-  <sub>Cured under pressure. Maintaining code so your dependencies do not implode.</sub>
-</div>
